@@ -1,5 +1,5 @@
 # Curso Golang: Explorando a linguagem do Google
-## Conteudo:
+### Conteudo apresentado no Curso:
 
 - [Array/Slice/Map](arrayslicemap)
 - [Concorrencia](concorrencia)
