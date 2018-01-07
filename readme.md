@@ -2,10 +2,10 @@
 ## Conteudo:
 
 - [Array/Slice/Map](arrayslicemap)
-- Concorrencia
-- Controles
-- Funções
-- Fundamentos
-- Pacotes
-- Testes
-- Tipos
+- [Concorrencia](concorrencia)
+- [Estruturas de Controle](controles)
+- [Funções](funcoes)
+- [Fundamentos](fundamentos)
+- [Pacotes](pacotes)
+- [Testes](testes)
+- [Tipos](tipos)
