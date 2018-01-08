@@ -6,6 +6,8 @@
 - [Estruturas de Controle](controles)
 - [Funções](funcoes)
 - [Fundamentos](fundamentos)
+- [Http](http)
 - [Pacotes](pacotes)
+- [SQL](sql)
 - [Testes](testes)
 - [Tipos](tipos)
